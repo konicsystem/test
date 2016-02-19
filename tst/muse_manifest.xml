@@ -1,0 +1,24 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="127.0.0.1" resolutions="1x" timestamp="1450780301346">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="376049766" ref="index"/>
+    <file name="master_a-___.css" crc="405534119" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="2041862909_di6ernzj_01.jpg" crc="4118508843" ref="index"/>
+    <file name="widget_popup-windows.jpg" crc="383860648" seo="true" ref="index"/>
+    <file name="musethemes-logo-crop-u84.jpg" crc="283448514" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3900591931" seo="true" mt="1450780285447" redirect="true"/>
+</manifest>
